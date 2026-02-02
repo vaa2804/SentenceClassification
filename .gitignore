@@ -1,0 +1,13 @@
+venv/
+*.out
+*.html
+.ipynb_checkpoints/
+submission.csv
+.idea/
+baseline_catboost/catboost_info
+.DS_Store
+*.ckpt
+__pycache__
+*.csv
+*.gz
+tmp.ipynb
